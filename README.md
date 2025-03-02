@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRuMHIxa2Zodzl4dWRrZHBoY3M3Z2VkeHVjeTc0b3V6NXJwbGFjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L2NA7tuP7Q4PPK0Crl/giphy.gif" width="50">Hi there 👋
 
 <!--
 **J0hnLee/J0hnLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on LeadwayTech Management System
+
+
