@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&color=0F172A&center=true&vCenter=true&width=640&lines=Pharmacist+%26+Full-Stack+Engineer;Building+Healthcare+Systems+with+Tech" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&color=F8FAFC&center=true&vCenter=true&width=640&lines=Pharmacist+%26+Full-Stack+Engineer;Building+Healthcare+Systems+with+Tech" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&color=0F172A&center=true&vCenter=true&width=640&lines=Pharmacist+%26+Full-Stack+Engineer;Building+Healthcare+Systems+with+Tech" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&color=0F172A&center=true&vCenter=true&width=640&lines=Pharmacist+%26+Full-Stack+Engineer;Building+Healthcare+Systems+with+Tech" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">藥師｜全棧工程師</p>
@@ -42,21 +46,36 @@ I am a pharmacist and full-stack engineer, delivering quality pharmaceutical pro
 
 ## Trophies / 成就
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=J0hnLee&theme=flat&no-frame=true&margin-w=8&column=4" alt="GitHub trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=J0hnLee&theme=darkhub&no-frame=true&margin-w=8&column=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=J0hnLee&theme=flat&no-frame=true&margin-w=8&column=4" alt="GitHub trophies" />
+  </picture>
 </p>
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J0hnLee&show_icons=true&theme=vue&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0hnLee&layout=compact&theme=vue&hide_border=true" height="160" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=J0hnLee&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=J0hnLee&show_icons=true&theme=vue&hide_border=true&cache_seconds=86400" height="160" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=J0hnLee&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0hnLee&layout=compact&theme=vue&hide_border=true&cache_seconds=86400" height="160" alt="Top languages" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=J0hnLee&theme=vue&hide_border=true" height="160" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=J0hnLee&theme=dark&hide_border=true&cache_seconds=86400" />
+    <img src="https://streak-stats.demolab.com?user=J0hnLee&theme=vue&hide_border=true&cache_seconds=86400" height="160" alt="GitHub streak" />
+  </picture>
 </p>
 
 ## Daily Quote / 每日一句
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Daily quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Daily quote" />
+  </picture>
 </p>
 
 ## Collaboration / 合作邀請
